@@ -1,6 +1,6 @@
 ---
-label: Willkommen
-icon: home
+label: Deutsch
+icon: globe
 author: zvdxc
 ---
 ![](media/banner.png)
