@@ -1,6 +1,6 @@
 # Will be removed later // Wird später entfernt werden
 
-Deutsche Übersetzung für die Docs von is-a.dev
+Deutsche Übersetzung für die Dokumentation von is-a.dev
 
 - [X] Cloudflare Pages
 - [X] DanBot Hosting
