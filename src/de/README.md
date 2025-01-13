@@ -1,3 +1,9 @@
+---
+label: Deutsch Status
+icon: rocket
+author: zvdxc
+---
+
 # Will be removed later // Wird später entfernt werden
 
 Deutsche Übersetzung für die Dokumentation von is-a.dev
