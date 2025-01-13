@@ -6,7 +6,7 @@ Deutsche Übersetzung für die Docs von is-a.dev
 - [X] DanBot Hosting
 - [X] Discord
 - [ ] GH-Pages
-- [ ] Hashnode
+- [X] Hashnode
 - [X] ImprovMX
 - [ ] Netlify
 - [ ] Other

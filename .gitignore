@@ -1,3 +1,5 @@
 .retype/
 retype.manifest
 prmerger
+.idea/
+.idea/*
